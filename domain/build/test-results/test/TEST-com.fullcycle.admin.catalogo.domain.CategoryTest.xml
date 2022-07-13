@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.fullcycle.admin.catalogo.domain.CategoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-13T17:36:20" hostname="LAPTOP-DSEG40HG" time="0.04">
-  <properties/>
-  <testcase name="testNewCategory()" classname="com.fullcycle.admin.catalogo.domain.CategoryTest" time="0.04"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
